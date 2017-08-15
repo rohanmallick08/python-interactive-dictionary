@@ -5,7 +5,7 @@ This is simple but intelligent command line dictionary.
 * Extract it in some folder.
 * Run using command line python app.py
 
-# Tes Cases
+# Test Cases
 * Search for "rain"
 * Result -
      * Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.
